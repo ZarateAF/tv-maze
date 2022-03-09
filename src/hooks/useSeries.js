@@ -24,7 +24,7 @@ export const useSeries = () => {
     if (number === -1 && noPage > 0) setNoPage(noPage - 1);
   };
 
-  const onRedirect = (id) => window.location.assign(`/detail?id=${id}`);
+  const onRedirect = (id) => window.location.assign(`/tv-maze/detail?id=${id}`);
 
   return {
     series,
