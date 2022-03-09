@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.img{
+  width: 400px;
+  height: auto;
+  min-height: 600px;
+  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDAgNjAwIiBjbGFzcz0iaW1nLWZsdWlkIHJvdW5kZWQgbXgtYXV0byBkLWJsb2NrIiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjYwMCI+CiAgICAgICAgICAgICAgICAgICAgPHJlY3Qgd2lkdGg9IjQwMCIgaGVpZ2h0PSI2MDAiIGZpbGw9IiNjY2NjY2MiPjwvcmVjdD4KICAgICAgICAgICAgICAgICAgICA8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSIyNnB4IiBmaWxsPSIjMzMzMzMzIj4gPC90ZXh0PiAgIAogICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICA8IS0tPGEgZG93bmxvYWQ9IkZJTEVOQU1FLnBuZyIgaHJlZj0iZGF0YTppbWFnZS9wbmc7YmFzZTY0LGFzZGFzZC4uLiI+RG93bmxvYWQ8L2E+LS0+)
+}
+
+.description{
+  width: 800px;
+  height: auto;
+  text-align: justify;
+}
+
+.code{
+  background: #313131;
+  width: 1000px;
+  height: auto;
+  text-align: justify;
+}
